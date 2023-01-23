@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tab-bar",
+    "slug": "tab-bar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
